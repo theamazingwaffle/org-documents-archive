@@ -1,5 +1,5 @@
 #+LANGUAGE: ro
-#+AUTHOR: Redacția «Știința Marxism», tradus de Pavel Morozov
+#+AUTHOR: Redacția «Știința Marxism»
 #+TITLE: Stalin și întrebarea construcției socialismului în URSS
 
 #+LATEX: \setstretch{1.6}
@@ -60,7 +60,7 @@ constituie o sarcină substanțială a revoluției victorioase. De aceasta revol
 țării învingătoare trebuie să se considere nu ca ceva autosuficient, ci ca un
 ajutor, ca un mijloc de accelerare a victoriei proletariatului în alte țări»
 
-(I. Stalin. «Despre bazele leninismului» - trad. Pavel Morozov)
+(I. Stalin. «Despre bazele leninismului»)
 #+end_quote
 
 Mai concret și exact Iosif Vissarionovici a dezvoltat teoria victoriei
@@ -107,8 +107,7 @@ Aceasta înseamnă că ajutorul serios a proletariatului internațional constitu
 acea putere, fără care nu poate fi completată sarcina victoriei socialismului
 definitivă într-o singură țară»
 
-(I. Stalin. «Răspuns tovarășului Ivanov, Ivan Filippovici» - trad. Pavel
-Morozov).
+(I. Stalin. «Răspuns tovarășului Ivanov, Ivan Filippovici»).
 #+end_quote
 
 Clarificându-ne cu baza teoretică a lui I. V. Stalin despre posibilitatea
@@ -126,8 +125,7 @@ Filippovici»:
 
 Prima problemă este deja rezolvată de noi, pentru că burghezia noastră este deja
 lichidată și socialismul este CONSTRUIT ÎN PRINCIPAL.»
-(I. Stalin. «Răspuns tovarășului Ivanov, Ivan Filippovici» - trad. Pavel
-Morozov).
+(I. Stalin. «Răspuns tovarășului Ivanov, Ivan Filippovici»).
 #+end_quote
 
 Din acest citat este clar, că societatea socialistă în URSS era construită
@@ -146,7 +144,7 @@ numesc altfel prima fază, sau faza inferioară a comunismului. Înseamnă, la n
 deja este REALIZATĂ ÎN PRINCIPAL prima fază a comunismului, socialismul»
 
 (I. Stalin. «Despre proiectul Constituției Uniunii RSS: Raport la congresul de
-urgență Unional al Sovieților la 25 noiembrie 1936» - trad. Pavel Morozov).
+urgență Unional al Sovieților la 25 noiembrie 1936»).
 #+end_quote
 
 Și încă:
@@ -159,8 +157,7 @@ organizație sovietică, socialistă, încă nefinisată deplin, dar în princip
 fiind o organizație socialistă a societății.»
 
 (I. Stalin. «Conversație cu președintele asociației americane de ziare
-„Scripps-Howard Newspapers”, domnul Roy Howard la 1 martie 1936.» - trad. Pavel
-Morozov).
+„Scripps-Howard Newspapers”, domnul Roy Howard la 1 martie 1936.»).
 #+end_quote
 
 Și încă:
@@ -170,8 +167,7 @@ Morozov).
 relație fraterne cu țărănimea noastră și să construim în principal societatea
 socialistă, în ciuda lipsei victoriei revoluției socialiste în alte țări.»
 
-(I. Stalin. «Răspuns tovarășului Ivanov, Ivan Filippovici» - trad. Pavel
-Morozov).
+(I. Stalin. «Răspuns tovarășului Ivanov, Ivan Filippovici»).
 #+end_quote
 
 Și încă:
@@ -267,8 +263,7 @@ de înlocuit cu sistema schimbului de produs, pentru ca puterea centalizată sau
 un alt centru socio-economic să poată acoperi toate produsele producției sociale
 în interesul societății»
 
-(I. Stalin. «Problemele economice ale socialismului în URSS» - trad. Pavel
-Morozov).
+(I. Stalin. «Problemele economice ale socialismului în URSS»).
 #+end_quote
 
 În acest mod va fi lichidată legea valorii și schimbul monetar, ce am notat mai
@@ -279,8 +274,7 @@ sus:
 producției de mărfuri. Cu lichidarea producției de mărfuri vor dispărea și
 valoarea cu formele ei și legea valorii»
 
-(I. Stalin. «Problemele economice ale socialismului în URSS» - trad. Pavel
-Morozov).
+(I. Stalin. «Problemele economice ale socialismului în URSS»).
 #+end_quote
 
 
