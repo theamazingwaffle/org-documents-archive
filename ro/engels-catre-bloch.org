@@ -1,0 +1,190 @@
+#+TITLE: Scrisoare către Joseph Bloch la Konigsberg
+#+AUTHOR: Friedrich Engels
+#+LANGUAGE: ro
+#+DATE: 21[-22] septembrie 1890
+
+#+OPTIONS: toc:nil title:nil
+
+#+LATEX_CLASS: report
+#+LATEX_CLASS_OPTIONS: [a4paper]
+
+#+LATEX_HEADER_EXTRA: \setmainfont{IBM Plex Serif}[Scale=1.5]
+#+LATEX_HEADER_EXTRA: \setsansfont{IBM Plex Sans}[Fractions=On]
+#+LATEX_HEADER_EXTRA: \setmonofont{IBM Plex Mono}[Fractions=On]
+
+#+LATEX_HEADER_EXTRA: \setstretch{1.6}
+#+LATEX: \fontdimen3\font=4em
+
+#+begin_export latex
+% For roman heading numbers
+\renewcommand{\thesection}{\Roman{section}}
+\renewcommand{\thesubsection}{\Roman{subsection}}
+
+\begin{titlepage}
+\maketitle
+\end{titlepage}
+
+\topskip=0pt
+\vspace*{\fill}
+Prezentăm atenției voastre o scrisoare de F. Engels adresată lui Joseph Bloch pe
+data de 21[-22] septembrie 1890, în care clarifică anumite puncte în privința
+cercetării familiei și expune înțelegerea marxistă a rolului economiei și
+voinței omului în istoria societății, cu scopul de a combate antimarxistii ce
+isi bazeaza toate explicatiile pe factorul economic.
+
+Cuvintele de la “Potrivit concepției materialiste ale istoriei” până la “și
+unele confuzii surprinzătoare” sunt transcrise din Karl Marx, Friedrich Engels,
+Opere alese în două volume, ediţia a 3-a, vol. 2, 1967, Editura Politică,
+p. 459-461
+
+Celelalte părți sunt traduse din a doua ediție a Operelor lui Marx și Engels în
+rusă, volumul 37, paginile 393-397.
+\vspace*{\fill}
+\newpage
+#+end_export
+
+Majestatea Voastra!
+
+Scrisoarea voastră de pe data de 3 mi-a fost transmisă la Folkestone; dar din
+moment ce nu aveam la îndemână cartea în cauză[fn:1], nu am putut să vă
+răspund. Întorcându-mă acasă pe data de 12, am găsit un volum mare de lucru atât
+de urgent, încât abia astăzi aveam de gând să vă scriu câteva rânduri. Așa se
+explică răspunsul meu târziu, pentru care îmi cer scuze.
+
+La prima întrebare. Mai întâi, la pagina 19 din Origins, 406 vedeți că procesul
+de formare a familiei punaluane este descris ca fiind foarte gradual, că și în
+acest secol căsătoriile între frate și soră (din aceeași mamă) au avut loc în
+familia regală în insulele Hawaii. Și de-a lungul istoriei antice, găsim exemple
+de astfel de căsătorii, de exemplu, chiar și printre Ptolemei. Aici însă – și
+aceasta este în al doilea rând – trebuie făcută o distincție între frați și
+surori pe linia maternă sau numai pe linia paternă; cuvintele adeljoz,
+adeljh[fn:2] provin din cuvântul deljuz - matcă, și, prin urmare, însemnau
+inițial doar frați și surori din partea maternă. Și încă de pe vremea
+matriarhatului a persistat de multă vreme ideea că copiii aceleiași mame, chiar
+dacă din tați diferiți, sunt mai apropiați unii de alții decât copiii din
+același tată, dar ai mamelor diferite. Forma punaluală a familiei exclude doar
+căsătoriile dintre cei dintâi, dar în niciun caz dintre cei din urmă, care, după
+ideea corespunzătoare, nici măcar nu sunt rude (întrucât dreptul mamei este
+hotărâtor). Iar cazurile de căsătorie între frate și soră întâlnite în
+antichitate se limitează, din câte știu eu, la astfel de căsătorii în care soții
+fie provin din mame diferite, fie proveniența lor din mame diferite nu este
+stabilită, dar nu este exclusă. Prin urmare, aceste căsătorii nu sunt în niciun
+caz contrare obiceiurilor punalua. Ați trecut cu vederea și faptul că între
+epoca Punalua și monogamia greacă a existat un salt de la matriarhat la
+patriarhat care schimbă lucrurile considerabil.
+
+În «Antichitățile elene» Waksmuth scrie că în epoca eroică printre greci
+«Relația prea strânsă a soților, cu excepția relației dintre părinți și copii,
+nu a provocat nicio obiecție» (III. P. 157). «A te căsători cu propria ta soră
+nu a fost considerată reprobabilă în Creta» (ibid., p. 170).
+
+Ultima remarcă este făcută după Strabon, cartea X[fn:3]; Pur și simplu nu îl
+găsesc acum pentru că textul nu este împărțit în capitole. - Prin surori,
+înțeleg aici, până la proba contrarie, surori din același tată.
+
+La a doua întrebare. Vă definesc prima poziție de bază după cum urmează:
+Potrivit concepţiei materialiste a istoriei, factorul hotărîtor în istorie este
+în ultimă instanţă producerea şi reproducerea vieţii reale. Nici Marx, nici eu
+n-am afirmat vreodată mai mult. Şi dacă cineva denaturează această aserţiune
+susţinînd că factorul economic este singurul hotărîtor, preface teza de mai sus
+într-o frază goală, abstractă şi absurdă. Situaţia economică este baza, dar
+diferitele elemente ale suprastructurii: formele politice ale luptei de clasă şi
+rezultatele ei — constituţiile date de clasa biruitoare după cîştigarea luptei
+etc. —, formele juridice, fără a mai vorbi de oglindirea tuturor acestor lupte
+reale în minţile participanţilor, teoriile politice, juridice, filozofice,
+concepţiile religioase şi dezvoltarea lor ulterioară într-un sistem de dogme,
+toate aceste elemente exercită de asemenea o influenţă asupra desfăşurării
+luptelor istorice şi determină, în multe cazuri, în special forma lor. Există
+aici o interacţiune a tuturor acestor factori, în cadrul căreia mişcarea
+economică, creîndu-şi drum prin mulţimea nesfîrşită de întîmplări (adică de
+lucruri şi de evenimente a căror legătură internă este atît de îndepărtată sau
+atît de greu de stabilit, încît o putem considera ca inexistentă şi deci
+ignora), se impune în cele din urmă ca ceva necesar. Altminteri aplicarea
+teoriei la o perioadă istorică oarecare ar fi mai uşoară decît rezolvarea unei
+ecuaţii simple de gradul întîi.
+
+Istoria ne-o făurim noi înşine, dar o făurim, în primul rînd, în cadrul unor
+premise şi condiţii bine determinate. Printre acestea cele economice sînt, în
+cele din urmă, hotărîtoare. Dar şi cele politice etc., ba chiar şi tradiţia,
+care mai dăinuie în mintea oamenilor, joacă un rol, deşi nu unul
+hotărîtor. Statul prusian s-a format şi s-a dezvoltat de asemenea ca urmare a
+unor cauze istorice, în ultimă instanţă economice. Dar nu s-ar putea susţine,
+fără a deveni pedant, că, dintre numeroasele state mici din Germania de nord,
+tocmai Brandenburgul a fost destinat de necesitatea economică, şi nu şi de alţi
+factori (în primul rînd de faptul că Brandenburgul, datorită dominaţiei asupra
+Prusiei, a fost implicat în problemele poloneze şi, prin aceasta, chiar în
+relaţiile politice internaţionale, care de altfel au fost hotărîtoare şi la
+formarea posesiunilor dinastiei austriece), pentru rolul de mare putere în care
+s-a întruchipat deosebirea economică, de limbă şi, de la reformă încoace, chiar
+şi de religie dintre nord şi sud. Cu greu ar reuşi cineva, fără a se face de
+rîs, să explice prin factorul economic existenţa fiecărui stătuleţ german din
+trecut şi din prezent sau originea permutării consoanelor din vechea limbă
+germană din sud, care a lărgit zona geografică de demarcaţie formată de lanţul
+de munţi de la Sudeţi pînă la Taunus, prefăcînd-o într-o adevărată breşă de-a
+lungul Germaniei!
+
+În al doilea rînd însă, istoria se înfăptuieşte astfel încît rezultatul final
+provine întotdeauna din conflictele multor voinţe individuale, dintre care
+fiecare la rîndul ei devine ceea ce este datorită unei multitudini de condiţii
+de viaţă speciale; sînt deci nenumărate forţe care se încrucişează, o grupă
+infinită de paralelograme de forţe, din care ia naştere o rezultantă, rezultatul
+istoric, care iarăşi poate fi privit, la rîndul lui, ca produsul unei forţe
+activînd ca totalitate în mod inconştient şi involuntar. Căci ceea ce vrea
+fiecare în parte e zădărnicit de un altul, iar ceea ce rezultă de aici este ceva
+ce n-a fost dorit de nimeni. Astfel istoria de pînă acum s-a desfăşurat în felul
+unui proces natural, fiind supusă, în esenţă, aceloraşi legi ale mişcării. Dar
+din faptul că voinţele individuale — din care fiecare în parte nu vrea altceva
+decît ceea ce îi cer constituţia sa fizică şi împrejurările exterioare, în
+ultimă instanţă economice (fie ale sale personale, fie cele general-sociale) —
+nu realizează ceea ce vor, ci se contopesc într-o medie generală, într-o
+rezultantă comună, din acest fapt nu trebuie totuşi trasă concluzia că ele
+urmează să fie considerate nule. Dimpotrivă, fiecare în parte contribuie la
+această rezultantă şi, în această măsură, este cuprinsă în ea.
+
+Aş vrea apoi să vă rog să studiaţi această teorie din izvoare originale, şi nu
+din lucrări din a doua mînă; aceasta este, într-adevăr, mult mai uşor. La Marx
+cu greu s-ar putea găsi o lucrare unde teoria aceasta să nu joace un
+rol. Îndeosebi însă «Optsprezece brumar al lui Ludovic Bonaparte»[fn:4]
+constituie un minunat model de aplicare a ei. De asemenea întîlnim în
+«Capitalul» numeroase referiri de acest fel. Permiteţi-mi să menţionez acum şi
+lucrările mele: «Domnul Eugen Dühring revoluţionează ştiinţa» şi «Ludwig
+Feuerbach şi sfîrşitul filozofiei clasice germane»[fn:5], în care am făcut cea
+mai amănunţită expunere, din cîte ştiu că există, asupra materialismului
+istoric.
+
+De faptul că uneori tinerii dau laturii economice mai multă importanţă decît i
+se cuvine, sîntem vinovaţi în parte noi înşine, Marx şi cu mine. Faţă de
+adversari a trebuit să accentuăm acest principiu fundamental, pe care ei îl
+negau, şi n-am avut întotdeauna vreme, loc şi prilej să acordăm suficientă
+atenţie celorlalţi factori care participă la această interacţiune. Dar de îndată
+ce ajungeam la expunerea vreunei perioade istorice, deci la aplicarea practică,
+lucrurile se schimbau, şi aici nu mai era cu putinţă nici o eroare. Din păcate
+însă prea des se întîmplă să crezi că ai înţeles perfect o teorie nouă şi că
+poţi jongla cu ea fără greutăţi de îndată ce ţi-ai însuşit — şi nici măcar
+întotdeauna bine — principiile ei fundamentale. Or, de acest reproş nu-i pot
+scuti pe unii dintre «marxiştii» mai noi, şi acestor lucruri li se datorează şi
+unele confuzii surprinzătoare
+
+La prima întrebare, am găsit ieri (scriu asta pe 22 septembrie) următorul pasaj
+decisiv, care confirmă pe deplin ceea ce am spus mai sus, în «Sheman in his
+Greek Antiquities», Berlin, 1855, I, p. 52: «Este se știe, totuși, că
+căsătoriile între frați și surori din mame diferite nu erau considerate incest
+în Grecia târzie.»
+
+Sper ca frazele incredibil de dificile pe care le-am folosit, încercând să fiu
+scurt, să nu vă sperie prea tare.
+
+#+LATEX: % Author in the end
+#+LATEX: \vspace{2cm}
+#+LATEX: \begin{flushright}
+#+LATEX: Devotat vouă, \textit{\theauthor}
+#+LATEX: \end{flushright}
+
+* Footnotes
+
+[fn:1] F. Engels, «Originia familiei, proprietății private și a
+statului»
+[fn:2] frate, soră
+[fn:3] Strabon, «Geografia»
+[fn:4] Vezi K. Marx şi F. Engels. Opere alese în două volume, vol. I, p. 201— 295. — Nota trad.
+[fn:5] Vezi volumul de faţă, p. 332—372. — Nota red.

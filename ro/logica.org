@@ -1,0 +1,7 @@
+#+TITLE: Logica
+#+AUTHOR: S. N. Vinogradov, A. F. Kuzmin
+
+* Obiectul și sarcinilie științei logica
+** Logica gândirii și știința logica
+   La lucru, în viața cotidiană, în timpul studiului, în lucrări științifice,
+   pretutindeni avem nevoie de un anumit tip de gândire, gândire corectă,

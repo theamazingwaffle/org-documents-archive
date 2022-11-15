@@ -1,0 +1,1066 @@
+#+TITLE: Ce este economia politică?
+#+OPTIONS: num:nil toc:nil title:nil
+#+SUBTITLE: Raport de I. I. Stepanov-Skvorțov
+#+AUTHOR: Ivan Ivanovici Stepanov-Skvorțov
+#+LANGUAGE: ro
+
+#+LATEX_CLASS: report
+#+LATEX_CLASS_OPTIONS: [a4paper]
+
+#+LATEX_HEADER_EXTRA: \setmainfont{IBM Plex Serif}[Scale=1.5]
+#+LATEX_HEADER_EXTRA: \setsansfont{IBM Plex Sans}[Fractions=On]
+#+LATEX_HEADER_EXTRA: \setmonofont{IBM Plex Mono}[Fractions=On]
+
+#+LATEX_HEADER_EXTRA: \setstretch{1.6}
+#+LATEX: \fontdimen3\font=4em
+
+#+begin_export latex
+% For roman heading numbers
+\renewcommand{\thesection}{\Roman{section}}
+\renewcommand{\thesubsection}{\Roman{subsection}}
+
+\begin{titlepage}
+\maketitle
+\end{titlepage}
+
+\topskip=0pt
+\vspace*{\fill}
+M.N. Pokrovschii: Ședința Academiei Comuniste se declară deschisă. Cuvântul se
+oferă tovarășului Stepanov.
+\vspace{8cm}
+\vspace{\fill}
+\newpage
+#+end_export
+
+* I
+  Care este sarcina economiei politice?
+
+  Noi, marxiștii, nu ne păcălim cu iluzii despre științe «curate», noi niciodată
+  nu uităm, că în orice eră istorică teoria își primește sarcinile de la
+  practică. De aceea noi, fără nici o ezitare și, probabil, unitar, vom
+  răspunde, fără să ne sfiim de simplicitatea răspunsului avansat: sarcina
+  economiei politice *moderne*, sau - un sinonim, pentru că doar economia
+  marxistă este o știință pentru era contemporară, - sarcina economiei
+  politice *marxiste* este cunoașterea [descoperirea, înțelegerea, познание]
+  *economiei societății moderne*.
+
+  Sub ce unghi un marxist revoluționar studiază economia modernă?
+
+  #+begin_quote
+  [...] în realitate şi pentru materialiştii practici, adică pen tru comunişti,
+  întreaga problemă este de a revoluţiona lumea existentă, de a ataca şi de a
+  schimba în mod practic starea de lucruri dată.
+  [fn:1]
+  #+end_quote
+
+  Sau, cum se exprimă Marx altundeva: «Comunismul pentru noi nu este o stare ce
+  trebuie stabilită, *nu-i un ideal*, căruia trebuie să-i corespundă
+  realitatea. Comunismul pentru noi este *mișcarea reală*, care distruge
+  statutul curent. Condițiile acestei mișcări se derivă din condițiile existente
+  în realitate la moment, în fața noastră.»
+
+  Așadar, economia noastră politică studiază lucrurile (desigur nu «lucrurile»
+  în general, ci «lucrurile economice») cum le surprinde ea, și în așa mod
+  descoperă premisele acelei mișcări reale, ce distruge economia curentă, avute
+  la moment în realitate,
+
+  Aproape după 25 ani, în 1868, când primul volum al «Capitalului» a ieșit deja
+  din tipar și când a fost pregătită o parte semnificativă a următoarelor
+  volume, Marx îi scria lui Engels:
+
+  #+begin_quote
+  Într-un anticariat găsirăm din greșeală /Report and Evidence of Irish tenant
+  right 1867/. Aceasta este o descoperire excelentă. Pe când domnii economiști
+  văd o discusie teoretică (Dogmenstreit) în întrebarea dacă renta de pământ
+  reprezintă o plată pentru diferențele naturale a solului sau sunt doar un
+  procent pe capitalul investit în pământ, avem aici o luptă practică nu la
+  viață ci la moarte între arendator și landlord: în *ce măsură* renta *în afară
+  de* plata pentru diferența solului trebuie să includă și procente pe capitalul
+  investit în pământ nu de landlord, ci de arendator. *Doar prin înlocuirea
+  conflicting dogmas* (conflictul dogmelor, teoriilor) *cu conflicting facts*
+  (conflictul faptelor, «lucrurilor», relațiilor reale) *și cu contradicții
+  reale, ce constituie fundalul lor ascuns, putem să transformăm economia*
+  *politică într-o știință pozitivă*.»
+
+  («Briefwechsel», IV V., pag. 99)
+  #+end_quote
+
+  Aceasta este la fel cu ceea ce Marx scria în jumătatea anilor '40: subiectul
+  economiei politice, ca o știință pozitivă (iar o știință nepozitivă nici nu
+  este o știință) sunt relațiile reale economice, «cum ea le prinde», adică
+  *economia, existentă în realitate, economia modernă*.
+
+  Dar ce sunt «lucrurile, cum le prindem», ce este «economia modernă»?
+
+  În martie anului 1868 Marx s-a ocupat, pe lângă altele, de lucrările
+  «bătrânului Mauer» despre instituțiile antice germane (construirea mărcii, a
+  satului, etc.). În legătură cu asta îi scria lui Engels:
+
+  #+begin_quote
+  «Același lucru se întâmplă în istoria omenirii ca și în
+  paleontologie. Lucrurile care zac chiar sub nas, în principiu, din cauza
+  orbirii de către o anumită prejudecată, nu sunt văzute nici măcar de cele mai
+  mari capete. Mai târziu, când vine momentul, sunt surprinși, peste tot
+  descoperă urme din ceea ce nu au observat înainte. Prima reacție împotriva
+  Revoluției Franceze și a Iluminismului asociat cu aceasta a fost firească: au
+  început să vadă totul într-un mod medieval, într-o lumină romantică. A doua
+  reacție – și corespunde tendinței socialiste, deși acei savanți (precum
+  Maurer) nu bănuiesc că este strâns legată de aceasta – este de a vedea,
+  dincolo de Evul Mediu, era primitivă a fiecărui popor. Iată un exemplu despre
+  cât de orbiți suntem cu toții de această prejudecată: tocmai în țara mea
+  natală, în Gunsrücken, vechiul sistem germanic a fost păstrat până în ultimii
+  ani»
+
+  («Briefwechsel», IV V., p. 29. Vezi și p. 24. Maurer l-a convins pe Marx că,
+  în ciuda narodnicilor ruși, comunitatea noastră nu poate pretinde câtuși de
+  puțin originalitate).
+  #+end_quote
+
+  Credeți că spunând «capitalism» ați epuizat întreaga economie modernă? Nu,
+  Evul Mediu încă mai trăiește în ea și, dacă priviți mai atent, veți descoperi
+  vremuri primitive dincolo de Evul Mediu. Și, în orice caz, «lucrurile» din
+  lumea modernă, așa cum le surprinde revoluția, vor primi o caracterizare
+  incompletă, distorsionată, dacă vedeți în ele «capitalism pur» și, din cauza
+  orbirii prejudecăților, puteți ignora cu ușurință ceea ce se mai păstrează
+  împreună cu ea — și în ce proporții enorme! - și «medievalism»,
+  «feudalism». Puteți trece peste «medievalism» doar în abstracție și dacă pur
+  și simplu încercați să-l ignorați în lupta revoluționară, în «mișcarea
+  adevărată», veți fi pedepsiți de «lucrurile așa cum le-ați găsit», dar care nu
+  le-ați cunoscut, fiind orbiți de prejudecăți. Aceste lucruri sunt
+  active. Aceasta nu este un fel de paleontologie!
+
+  Cea mai atentă și riguroasă considerație teoretică a întregii împletiri
+  complexe a relațiilor obiective, care stă la baza unei practici revoluționare
+  principiale, de clasă și în același timp flexibile — aceasta este esența
+  marxismului și leninismului, aceasta este, mai sus de toate, esența economiei
+  lor politice.
+
+  Acoperirea și, cum vom vedea mai jos, metoda economiei politice sunt
+  determinate, neapărat de sarcinile ei, de relația ei cu practica.
+
+  În primul rând, în ceea ce privește acoperirea, în urmă cu un sfert de secol
+  nu a existat niciun dezacord între noi.
+
+  Lenin recunoștea economia politică drept «o știință care studiază relațiile
+  sociale de producție și distribuție în dezvoltarea lor». El constata că
+  această știință «trebuie prezentată nu în mod dogmatic (cum se obișnuiește în
+  majoritatea manualelor), ci sub forma unei descrieri a perioadelor succesive
+  de dezvoltare: perioada comunismului tribal primitiv, perioada sclaviei,
+  perioada feudalismului și ateliere și, în sfârșit, capitalism». El adaugă la
+  aceasta: «doar așa ar trebui formulată economia politică». Dar cu un astfel de
+  sistem de prezentare trebuie să spargeți una și aceeași secțiune și să cadă în
+  repetare. «Dar acest neajuns pur formal este pe deplin răscumpărat de
+  principalele merite ale prezentării istorice. Și este un dezavantaj?
+  Repetările sunt foarte nesemnificative, utile pentru începător, pentru că
+  acesta asimilează mai ferm pozițiile deosebit de importante. Atribuirea, de
+  exemplu, a funcțiilor istorice ale banilor diferitelor perioade de dezvoltare
+  economică arată clar *studentului că analiza teoretică a funcțiilor se bazează
+  nu pe speculații abstracte, ci pe un studiu precis a ceea ce s-a* *întâmplat
+  în dezvoltarea istorică a omenirii* (subliniat, ca mai jos, de mine. — I. S.).
+  Ideea structurilor individuale, definite istoric, ale economiei sociale este
+  mai integrală. Dar sarcina unui ghid al economiei politice este de a oferi
+  studentului acestei științe conceptele de bază *ale diferitelor sisteme ale
+  economiei sociale și ale trăsăturilor fundamentale ale fiecărui sistem*;
+  întreaga sarcină este de a se asigura că o persoană care asimilează un ghid
+  inițial pentru sine, în viitor va avea în mâinile sale un fir de ghidare de
+  încredere pentru studiul ulterior al acestui subiect, astfel încât să capete
+  interes pentru un astfel de studiu, realizând că *cele mai importante
+  întrebări ale viații sociale moderne sunt legate de problemele științei*
+  *economice*.»  («Pacea lui Dumnezeu» 1898, nr. 4, pp. 98–99. Recenzia lui
+  Lenin pentru prima ediție a «Cursului scurt de economie» a lui A. Bogdanov).
+
+  Ultimele cuvinte pe care le-am subliniat sunt o expresie, adaptată cenzurii
+  nemiloase de atunci, a ideii că în economie vom găsi o fundamentare teoretică
+  a luptei revoluţionare.
+
+  Restrângerea decisivă, principială, a economiei politice la cadrul relațiilor
+  capitaliste aparține în literatura rusă în primul rând lui Tugan-Baranovski,
+  care la acea vreme s-a îndepărtat din ce în ce mai mult de marxism și în
+  «Eseuri de istorie a economiei politice», publicat în «Mir Bozhiy» 1901–1903,
+  s-a despărțit în cele din urmă de el. El a dat, într-adevăr, o fundamentare
+  principială a poziției sale. Fiecare știință trebuie să dezvăluie
+  regularitatea, necesitatea cauzală a fenomenelor pe care le studiază. Și din
+  moment ce, potrivit lui Tugan-Baranovsky, voința și conștiința oamenilor
+  încetează să dirijeze relațiile economice numai din momentul în care toată
+  producția cade sub puterea forțelor spontane ale pieței, care operează cu
+  inexorabilitatea legilor naturii, atunci economia propriu-zisă nu are nimic
+  de-a face cu sistemele economice precapitaliste. Și cu toate acestea,
+  Tugan-Baranovski a continuat să îl citeze pe Marx.
+
+  Probabil că cititorii au observat deja că unele dintre cele mai noi manuale de
+  economie politică repetă pur și simplu – poate fără știrea autorilor –
+  argumentația lui Tugan-Baranovski, fără să-i pese câtuși de puțin să o
+  actualizeze.
+
+  După publicarea «Eseurilor» în ediții separate, le-am consacrat un articol
+  lung în jurnalul de la Moscova «Pravda» (februarie 1904), în redacția căreia
+  la vremea aceea bolșevicii jucau un rol semnificativ în perioada
+  pre-revoluționară, dar au fost, totuși, alungați foarte repede de
+  menșevici. Am arătat în articolul meu că Tugan-Baranovsky l-a părăsit pe Marx
+  pentru Bucher și că, în același timp, s-a transformat într-un apologe al
+  capitalismului. Am arătat în același timp că economia politică marxistă nu
+  și-a închis și nu își închide orizonturile în limitele capitalismului
+  dezvoltat, ci le împinge într-o direcție sau alta.
+
+  Tovarășii cu care am vorbit despre acest subiect au fost atunci pe deplin de
+  acord cu mine. Nimeni nu a obiectat la argumentele mele și la punctul meu de
+  vedere.
+
+  Sunt de acord că absența obiecțiilor din partea tovarășilor nu este deloc un
+  argument. Recunosc cu ușurință că s-ar putea să nu fi urmărit «abaterile» mele
+  de la Marx și Engels sau, având în vedere importanța unei dezangajări decisive
+  de diferiții Tugan-Baranovsky, ar putea pur și simplu să rămână tăcuți.
+
+  Având în vedere acest lucru, să încercăm să găsim la Marx și Engels înșiși o
+  expunere mai mult sau mai puțin sistematică a opiniilor lor asupra subiectului
+  și metodei economiei politice. Ceea ce este dat la începutul capitolului sunt
+  gânduri individuale, poate afirmații «aleatorii», care nu au legătură cu
+  esența opiniilor lor.
+
+* II
+  Înainte de toate - «Mizeria filozofiei».
+
+  Această lucrare este reeditată la noi destul de rar. Este studiată destul de
+  puțin. Influența ei nu este simțită deloc în majoritatea noilor cursuri
+  «marxiste» de economie politică și în articolele dedicate precizării
+  obiectului și metodei acestei științe.
+
+  Aparent, în privința acestei lucrări s-au format prejudicii, de parcă ea nu ne
+  poate da nimic «nou», fiind scrisă aproape 80 ani în urmă; de aceea, precizând
+  obiectul și metoda economiei politice, ar fi mult mai productiv de a ne adresa
+  «contemporarilor», cel puțin la Hilferding.
+
+  Însă «Mizeria filozofiei», ca și «Manifestul partidului comunist» și
+  «Ideologia Germană», toate reprezintă într-un sens cunoscut niște *lucrări de
+  program*. În aceste lucrări, când cu linii mari, când cu replici scurte, care
+  în anii '40 nu puteau opri atenția cititorilor, când cu notițe mnemonice,
+  sensul cărora devine clar doar în lumina lucrărilor de mai târziu, ni se dă un
+  fel de «plan» al întregului lucru colosal a lor Marx și Engels în
+  viitor. Astfel, în «Mizeria filozofiei», este deja dată o mare parte din ceea,
+  ce urma să fie dezvoltat în «Capital», iar în «Ideologia Germană» și în
+  «Sfânta familie» noi găsim multe elemente ale «Anti-Duhring»-ului, ale lui
+  «L. Feuerbach» și «Originii familiei, proprietății private și statului».
+
+  Lucrările numite anterior sunt în aceeași măsură *lucrări de program* ale lor
+  Marx și Engels, cum și «Ce sunt prietenii poporului...» este o *lucrare de
+  program pentru Lenin*.
+
+  Dar Marx și Engels au reușit mai târziu să realizeze doar o anumită parte din
+  programul lor grandios de lucrări științifice. La unele întrebări, puse în
+  anii de la început, ei nu se apoi întorceau deloc, sau se întorceau doar «în
+  trecere», de exemplu în corespondență. Gândurile geniale, cu care sunt umplute
+  extravagant lucrările lor din tinerețe, fiind într-adevăr «de program» și din
+  această aspect, din punctul de vedere a conciziei tezelor, așa și nu au primit
+  dezvoltare în viitor la ei. Multe din ele până azi așteaptă dezvoltare.
+
+  «Mizeria filozofiei» ne relatează în modul cel mai sistematic și prelucrat
+  viziunea lui Marx în privința obiectului și metodei economiei
+  politice. Metodologia «Capitalului» este metodologia «Mizeriei
+  filozofiei». Dacă încă mai rămâneau dubii în această privință, vom găsi un
+  rând de dovezi precum că Marx și Engels până la sfârșitul vieții lor nu vedeau
+  nici un motiv de revizie a metodei «Mizeriei filozofiei». Chiar am văzut deja
+  o parte din aceste dovezi, pentru că «Mizeria filozofiei» ne demonstrează cât
+  se poate de clar atitudinea lui Marx în privința lucrării lui Maurer.
+
+  Toate astea sunt destule dovezi pentru ca, riscând să arăt «de modă veche», să
+  mă adresez pentru rezolvarea unor întrebări controversate nu lui Schumpeter,
+  și nici lui Kunov, ci lui Marx din anii '40 ai secolului trecut.
+
+  #+begin_quote
+  Economiştii consideră relaţiile de producţie burgheze, diviziunea muncii,
+  creditul, banii etc., ca nişte categorii fixe, imuabile, eterne...
+
+  Economiştii ne explică cum se produce în cadrul acestor relaţii, dar nu ne
+  explică cum se produc aceste relaţii, *adică mişcarea istorică care le dă
+  naştere*...
+
+  Dar din moment ce nu se ţine seama de *dezvoltarea istorică a relaţiilor de
+  producţie*, ale căror categorii nu sunt decât expresia lor teoretică, din
+  moment ce nu vrem să vedem în aceste categorii decât idei, gânduri spontane,
+  independente de relaţiile reale, suntem nevoiţi să atribuim originea acestor
+  idei mişcării raţiunii pure.
+
+  (K. Marx. «Mizeria filozofiei», /Opere/, Volumul 4, Editura Politică,
+  București, 1958, p. 126)
+  #+end_quote
+
+  În lucrările din anii '40 referindu-se la «economiști» Marx și Engels se
+  refereau exclusiv la *economiști burghezi* și, de obicei, îi opuneau
+  *comuniștilor* (și socialiștilor).
+
+  Așadar, economiștii burghezi iau relațiile formate a societății capitaliste și
+  își limitează studiul doar cu ele. În opunere la asta, sarcina comuniștilor
+  este să afle cum aceste relații au apărut istoric, să observe dezvoltarea lor
+  istorică. Ei trebuie să-și mărească câmpul de vedere *în afara limitelor
+  capitalismului*.
+
+  #+begin_quote
+  «Categoriile economice -- continuă Marx cu câteva pagini mai jos -- nu
+  constituie decât expresiile teoretice, abstracţiile relaţiilor sociale de
+  producţie...
+
+  Relaţiile sociale sunt strâns legate de forţele productive. Dobândind noi
+  forţe productive, oamenii îşi s chimbă modul de producţie şi, odată cu el,
+  felul lor de a-şi cîştiga existenţa, îşi schimbă toate relaţiile lor
+  sociale. Moara acţionată cu mâna creează societatea cu stăpâni feudali; moara
+  cu aburi - societatea cu capitalişti industriali. Aceiaşi oameni care
+  stabilesc relaţiile sociale corespunzătoare dezvoltării producţiei lor
+  materiale produc şi principiile, ideile, categoriile corespunzătoare
+  relaţiilor lor sociale. Aceste idei, aceste categorii sunt, prin umare, tot
+  atît de puţin eterne ca şi relaţiile pe care le exprimă. Ele sunt *produse
+  istorice trecătoare*.»
+
+  (K. Marx. «Mizeria filozofiei», /Opere/, Volumul 4, Editura Politică,
+  București, 1958, p. 129-130)
+  #+end_quote
+
+  Comunistul trebuie să ridice caracterul istoric, trecător al acestor idei și
+  principii, și, desigur, chiar înainte de toate, relațiilor de producție
+  exprimate de aceste idei. Aceasta este, în ochii lui Marx, una dintre primele
+  sarcini ale acelei științe economice, care se opune economiei politice
+  burgheze.
+
+  #+begin_quote
+  «Sclavajul direct este pivotul industriei burgheze, ca şi maşinile, creditul
+  etc. Fără sclavaj nu ar exista bumbac; fără bumbac nu ar exista industria
+  modernă. Numai sclavajul a dat valoare coloniilor, care au creat comerţul
+  mondial, iar comerţul mondial este condiţia de existenţă a marii industrii.
+  Astfel *sclavajul este o categorie economică extrem de importantă*.»
+
+  (p. 131)
+  #+end_quote
+
+  Economia burgheză vorbește despre *un capitalism abstract*, care știe doar
+  categorii precum muncitorul salariat, relațiile formal libere contractuale,
+  salariu, ș.a.m.d. Marx ne amintește aici, că pentru capitalismul real din anii
+  '40 ai secolului XIX axa principală rămânea sclavajul direct, neascuns de
+  nimic și că marea industrie cu dezvoltarea sa este legată strâns de sclavajul
+  colonial, ce a creat condițiile necesare pentru ea. Economia burgheză cu
+  categoriile sale, care sunt doar oglinziri abstracte ale relațiilor marii
+  producții capitaliste, poate în abstracțiile sale să sară peste sclavaj, așa
+  cum economia contemporană burgheză neglijează sclavajul colonial abia ascuns
+  și jaful a coloniilor, cu care se alimentează capitalismul contemporan. Dar
+  comuniștii nu vor urma economia burgheză. Ei vor spune direct, că sclavajul și
+  jaful colonial - sunt în măsură egală categorii economice a capitalismului
+  real, ci nu «inteligibl», ca și «muncitorul salariat liber» și agentul de
+  bursă educat, ce are de-a face doar cu «hârtii».
+
+  Criticându-l pe Proudhon, Marx scrie:
+
+  #+begin_quote
+  «Tot ce există, tot ce trăieşte pe pămînt şi sub apă nu există, nu trăieşte
+  decît printr-o mişcare oarecare. Astfel mişcarea istoriei dă naştere
+  relaţiilor sociale, mişcarea industrială ne dă produsele industriale, etc.
+
+  După cum prin metoda abstracţiilor noi transformăm orice lucru în categorie
+  logică, tot astfel nu avem decît să facem abstracţie de orice caracter
+  distinctiv al diferitelor mişcări pentru a ajunge la mişcarea abstractă, la
+  mişcarea pur formală, la formula pur logică a mişcării. Dacă în categoriile
+  logice se găseşte substanţa oricărui lucru, ne putem închipui că în formula
+  logică a mişcării se găseşte metoda absolută, care nu numai că explică orice
+  lucru, dar implică şi mişcarea fiecărui lucru.»[fn:2]
+
+  (p. 127-128)
+  #+end_quote
+
+  Exact! Se abstracționează de la capitalul dezvoltat istoric și existent la
+  moment, construiesc niște forme pur logice a relațiilor capitaliste - și își
+  imaginează, de parcă deja au primit o explicație a tuturor lucrurilor, cum ele
+  există în realitate, și de parcă prin această metodă deja au cuprins și
+  economia Egiptului, și a Indiei, și a Chinei. Își imaginează că acest
+  capitalism abstract dă naștere oricărei mișcări singur din sine, de parcă
+  toate «aceste categorii [par] să se creeze unele pe altele, să se înlănţuie şi
+  să se împletească unele cu altele prin simplul mecanism al mişcării
+  dialectice.» (129)
+
+  Aceasta este autodezvoltarea capitalismului fără condiții istorice,
+  a capitalismului în formă abstractă: evident, autodezvoltare imaginară,
+  autodezvoltare efectuată în «efirul pur» al abstracției.
+
+  Cum se apropie de această problemă un comunist?
+
+  După Proudhon, spune Marx, «fiecare principiu a avut secolul lui de
+  manifestare. Principiul de autoritate, de pildă, a avut secolul al XI-lea,
+  după cum principiul individualismului l-a avut pe cel de-al XVIII-lea. In
+  consecinţă, secolul aparţinea principiului, şi nu principiul secolului. Cu
+  alte cuvinte, principiul făcea istoria, nu istoria principiul. Cînd, apoi,
+  pentru a salva atât principiile cât şi istoria, ne întrebăm de ce cutare
+  principiu s-a ma nifestat în secolul al XI-lea sau în secolul al XVIII-lea, şi
+  nu într-un altul, va trebui inevitabil să cercetăm amănunţit ce fel de oameni
+  erau în secolul al XI-lea, ce fel erau cei din secolul al XVIII-lea, care erau
+  nevoile lor, forţele lor productive, modul lor de producţie, materiile prime
+  de producţie, care erau, în sfîrşit, relaţiile de la om la om rezultate din
+  toate aceste condiţii de existenţă. *A adânci toate aceste chestiuni nu
+  înseamnă oare a face istoria reală, profană a oamenilor din fiecare secol,*
+  *a-i prezenta pe aceşti oameni în acelaşi timp ca pe autorii şi actorii
+  propriei lor drame*?»(p. 133-134)
+
+  Doriți să cunoașteți capitalismul modern? Atrageți atenția la tehnologia
+  contemporană, notați nenumăratele tendințe, notați extragerea materiei prime
+  din colonii și atitudinea generală despre colonii: pe scurt, studiați în modul
+  cel mai atent și în întregime acea complicată interlegătură a relațiilor
+  *reale*, pe care o acoperim cu cuvântul «imperialism» - și atunci, doar
+  atunci, veți înțelege adevărata, «păcătoasa» economie, în care rusul și
+  chinezul, englezul și indianul, americanul și negrul sunt în același timp
+  autorii și actorii - da, și actorii - propriei lor drame. Nu-i așa?
+
+  Dar cum trebuie să se atârne economiștii abstracți de acele lucruri, care nu
+  se aranjează în categoriile lor normale și pe care ei nu le pot ignora?
+
+  #+begin_quote
+  Economiştii folosesc un procedeu foarte straniu. Pentru ei nu există decît
+  două feluri de instituţii: artificiale şi naturale. Instituţiile feudale sunt
+  artificiale, cele burgheze sunt naturale. Ei seamănă în această privinţă cu
+  teologii, care împart şi ei religiile în două categorii. Orice religie care nu
+  este a lor este o născocire a oamenilor, pe când propria lor religie este o
+  revelaţie divină.
+  #+end_quote
+
+  Desigur, economiștii abstracți contemporani nu vorbesc despre «naturalitate»
+  și «artificialitate». Dar nu vorbesc ei oare despre faptul că de aici înainte
+  este posibilă doar revoluția pur proletară, și că ceasul pentru ea va bate
+  doar de atunci, când economia mondială se va aranja în normele stricte a
+  capitalismului lor abstract, normal, dezvoltat, pur și curat?
+
+  Ei, continuând discuțiile următoarelor pagini a «Mizeriei filozofiei», în
+  urmele colosale a epocii feodale văd doar «partea incorectă», doar
+  «neajunsuri» ai economiei moderne, și nu doresc să înțeleagă că la o anumită
+  treaptă a dezvoltării, sub anumite premise existente, aceste «neajunsuri» ce
+  murdăresc fața curată a capitalismului abstract, pot servi drept momente ce
+  împing înspre lupta revoluționară și măresc colosal adâncimea și domeniul ei
+  de aplicare.
+
+  Aceasta este exact ceea ce Lenin numea «revoluționarismul condițional al
+  micului producător» (vezi. «Colecția Leninistă», II, p. 82).
+
+  Trebuie oare de explicat ce prăpastie fără fund există aici între comuniștii
+  contemporani și economiștii abstracți ai Internaționalei a II-a - Kunovii,
+  Rennerii, Hilferdingii?
+
+  Sărind peste un rând întreg de indicații metodologice folositoare teoriei
+  revoluționare și practicii revoluționare: nu putem retipări întreaga a doua
+  parte a «Mizeriei filozofiei», mă voi opri doar la un singur punct. Ne va
+  aminti încă o dată că, folosind cuvintele lui Marx (p. 149) «nu se poate face
+  istorie cu formule», din formule abstracte ale economiștilor nu poți deduce
+  nici un adevăr real, nici o mișcare reală. «Renta, în sensul lui Ricardo, este
+  agricultura patriarhală transformată în întreprindere comercială, capitalul
+  industrial investit în pămînt, burghezia oraşelor transplantată la ţară»
+  (p. 167).
+
+  Acest gând, desigur, într-o formă dezvoltată, îl întâlnim în lucrările mai
+  târzii ale lui Marx. «Acolo unde nu există proprietate funciară, de fapt sau
+  de drept, nu poate exista rentă funciară absolută. Expresia adecvată a
+  proprietăţii funciare o constituie renta absolută, şi nu cea diferenţială»
+  («Teorii asupra plusvalorii», partea a II-a, /Opere/, vol. 26 partea a II-a,
+  p. 357, Editura Politică București, 1983). Fiind pusă întrebarea, de ce
+  prețurile produselor agriculturale nu se egalează după prețurile producției,
+  Marx răspunde: această egalare îndeobște poate să se întâmple doar pentru că
+  «aceste condiții de producție sunt create de însăși capital». Referitor la
+  agricultură, aici există proprietatea funciară, «și producția capitalistă își
+  începe drumul dispunând deja de relații ce nu au apărut din ea, ci care s-au
+  format înaintea ei, relații de proprietate funciară». «Relațiile engleze sunt
+  unicile în care s-a dezvoltat proprietatea funciară contemporană, adică
+  proprietatea, modificată de producția capitalistă». Aici și în multe alte
+  locuri Marx ne clarifică insistent că baza, premisele pentru renta lui Ricardo
+  există doar acolo și doar atât timp cât și capitalismul a reușit să modifice
+  proprietatea feudală și că, în particular, ea nu există nici în economia
+  arendatorului Irlandez, nici în economia țărănească (compară «Mizeria
+  filozofiei», p. 125-140: chiar și acum sunt foarte folositoare împreună cu
+  «Teoriile» și volumul III al «Capitalului»).
+
+  Reiese aceeași concluzie: din relațiile interne a capitalului, a acelui
+  capital care există pentru construcțiile abstracte a economiștilor abstracți,
+  nu putem să explicăm acel set complicat de relații a capitalismului real
+  contemporan, care este legat de proprietatea funciară. Teoria capitalismului
+  real trebuie să efectueze o descoperire colosală în era feudală, pentru că
+  până și astăzi se păstrează urma colosală a erei feudale în capitalismul
+  contemporan: până și astăzi se păstrează proprietatea funciară privată, pe
+  care capitalul nu a creat-o, ci pe care a găsit-o în calitate de fundal al său
+  istoric.
+
+  Firește, economiștii burghezi, înepând cu clasicii și sfârșind cu noii
+  «reformiști agrari» (Bodenreformer), de la Henry George până la careva
+  Damashke, au observat că proprietatea funciară este ceva incorect, străin
+  pentru relațiile burgheze, ce distorționează cu o pată murdară a
+  «barbarismului gotic» fața curată a capitalismului scump lor: ceva
+  «artificial» în comparație cu capitalismul «natural».
+
+  Comuniștii nu s-au oprit la jumătate de drum. Ei, observând dezvoltarea
+  capitalismului, nu în abstracții, ci în istoria actuală, au demonstrat că
+  proprietatea capitalistă și exploatarea îndeobște s-au dezvoltat din
+  proprietatea și exploatarea feudală (în particular, deja «Mizeria filozofiei»
+  ne dă în linii generale paginile faimoase ale «Capitalului» despre acumularea
+  de inițială și despre tendințele istorice a producției capitaliste). Ei au
+  demonstrat că dezvoltarea relațiilor capitaliste a constituit negația
+  relațiilor feudale (diverse forme și moduri de expropriere a producătorilor
+  direcți ai erei medievale), iar pentru proprietatea funciară dezvoltarea
+  capitalismului a constituit doar adaptarea ei pentru necesitățile
+  capitalului. Dar ei au demonstrat de asemenea că această adaptare s-a
+  întâmplat doar în acele cazuri, în care capitalul a stăpânit agricultura
+  apropiindu-se de ea cum s-ar apropia de orice ramură a industriei. Iar în rând
+  cu aceste insulițe caplitaliste de agricultură există oceanul uriaș a
+  chiriașilor necapitalistici și economiilor țărănești, la fel o moștenire a
+  erei feudale. Comuniștii au deschis că feudalismul continuă să existe și în
+  forma rentei absolute, necunoscută de economia abstractă burgheză, și în forma
+  micșorării constante a «profitului antreprenorial» și «salariului» micului
+  producător, și în orice mod de asuprire și forțare «non-economice».
+
+  Trebuie oare de spus, ce importanță uriașă, revoluționară o are pentru
+  comuniști (aici ne amintim de Lenin) acest studiu al economiei *reale* a
+  capitalismului: acelui capitalism, cum el există în realitate, și nu în
+  «eterul curat al rațiunii»? Și trebuie oare de amintit, că doar această
+  cunoștință teoretică a capitalismului actual a făcut posibilă consistența
+  principială și aria revoluționară de acoperire a strategiei noastre, care,
+  aducând țărănimea în uniune de luptă împreună cu proletariatul, a continuat
+  distrugerea amprentelor feudale prin distrugerea relațiilor proprietății
+  feudale, iar lichidarea proprietății feudale a dus la negația revoluționară a
+  proprietății capitaliste și construcției socialiste?
+
+  Desigur, fără «categoriile economice, ce prezintă doar exprimările teoretice,
+  abstracțiile relațiilor de producție capitaliste», nu ar fi posibilă acea
+  cunoaștere teoretică a capitalismului real, care le avem mulțumită lui Marx și
+  Lenin. Dar categoriile economice a capitalismului abstract au servit pentru ei
+  doar în rol de *cheie*, necesară pentru descifrarea relațiilor actuale, reale.
+
+  @@latex:\hspace{\fill}@@ *Categoriile economice ale capitalismului curat
+  constituie o* @@latex:\\@@ *unealtă, însă nu sunt deloc întregul conținut al
+  economiei politice marxiste*.
+
+  Nu ne vor spune oare nouă, că sarcina economiei politice sau economiei
+  teoretice, se epuizează complet cu găsirea cheii și se termină deodată ce
+  această cheie începe să fie folosită pentru studiul economic al realității? Nu
+  ne vor spune oare, că crearea acestei chei se îndeplinește în forja în care se
+  prelucrează realitatea, curățată de orice conținut real, transformată în
+  abstracții pustii, fără formă corporală, dar și fără folos? În acest caz nu ar
+  trebui să recunoaștem că, în timpul actual, încercări de a construi economia
+  politică ce nu își pierde demnitatea teoretică putem găsi doar la cavalerii
+  utilității marginale, a acestei dame frumoase care, învăluită în «eterul curat
+  al rațiunii», rămâne neatinsă de gălăgia și zgomotul, de murdăria și sângele,
+  de crimele grandioase a războaielor imperialiste, jaful zilnic și frauda pe
+  «coloratele» continente și insule? Însă aceacheie, de care se bucură acești
+  cavalerii acestei dame nu este o cheie pentru decifrarea realității, ci doar o
+  cheie, care, nefiind folositor pentru orice treabă practică, are doar o
+  menire: servește ca decor pentru valeții burgheziei, când ei, odată cu
+  creșterea statelor roiale ale ei, își schimbă numele în camergheri.
+
+* III
+  «Anti-Duhring»-ul lui Engels constituie un rezumat al experienței luptei
+  revoluționare de 40 ani a lor Marx și Engels. Acest rezumat se scria de Engels
+  împreună cu Marx, despre ce ne mărturisește corespondența lor
+  («Briefweschel»). Cu atât mai valoroase pentru noi sunt paginile dedicate de
+  Engels sarcinilor și metodologiei economiei politice. Faptul că erau scrise cu
+  patruzeci ani în urmă sau faptul că sunt ignorate complet de majoritatea
+  ghidurilor și manualelor pentru economia politică nu ne oprește deloc, deși
+  acestea nu încurcă autorilor deloc să-și recomendeze manualele drept
+  consecvent marxiste.
+
+  De fapt, pentru mine este o mare mirare cum autorii -- marxiștii care au
+  debutat recent cu niște articole pretențioase despre metodologia economiei
+  politice -- au trecut complet silențios peste cartea lui Engels. Este posibil
+  un singur răspuns: sau au «uitat» de această carte, ce ar fi foarte ciudat
+  pentru teoreticieni marxiști, sau de la bun început le era clar că i-ar trebui
+  să direcționeze obiecțiile lor critice direct și aproape complet împotriva lui
+  Engels, însă ei nu pot să facă acest pas, din motive destul de clare.
+
+  *Al doilea capitol* al «Anti-Duhring»-ului se numește *«Economia politică»* și
+  se deschide cu partea *«Obiectul și metoda»*. Chiar primele 6 pagini
+  (F. Engels, «Domnul Eugen Duhring revoluţionează ştiinţa», /Opere/, Editura
+  Politică, București 1964, p. 142-148) ne dau un răspuns simplu, clar și
+  direct, ce nu ne lasă nici o șansă pentru manipulare și interpretare
+  ipocrită. Deși, cum ne arată practica, cu destulă dorință de la Engels poți
+  ajunge și la Hegel, ba chiar cine știe unde poți ajunge.
+
+  #+begin_quote
+  «Economia politică, in sensul cel mai larg, este ştiinţa legilor care
+  guvernează producţia şi schimbul bunurilor materiale necesare traiului în
+  societatea omenească».
+
+  «Condiţiile în care oamenii produc şi fac schimb diferă de la ţară la ţară,
+  iar în fiecare ţară diferă de la generaţie la generaţie. Economia politică nu
+  poate fi, aşadar, aceeaşi pentru toate ţările şi pentru toate epocile
+  istorice».
+  #+end_quote
+
+  Ni se explică insistent, în ultimul timp, că economia politică se poate ridica
+  la nivelul unei științe doar datorită faptului că se limitează cu studiul
+  legilor economice în societatea capitalistă. Nu, - spune Engels - economia
+  politică este știința care, rămânând o știință, studiază legile producției și
+  schimbului și în alte țări, și în alte perioade temporale, în afara celor
+  capitaliste. El își clarifică gândul cu următorul paragraf:
+
+  #+begin_quote
+  De la arc şi săgeată, de la cuţitul de piatră şi de la schimbul întâmplător al
+  sălbaticilor până la maşina cu abur de 1OOO de cai putere, la războiul de
+  ţesut mecanic, la căile ferate şi la Banca Angliei stă o distanţă
+  uriaşă. Oamenii din Ţara Focului n-au ajuns la producţia în masă şi la
+  comerţul mondial şi nici la emiterea de poliţe fără acoperire sau la crahuri
+  de bursă.
+  #+end_quote
+
+  Dar înseamnă oare asta, că știința economică nu are nimic de făcut cu oamenii
+  Țării Focului? Nu, din aceasta reiese o concluzie mai complicată:
+
+  #+begin_quote
+  Cel care ar pretinde că economia politică a Ţării Focului şi economia politică
+  a Angliei de astăzi sunt supuse aceloraşi legi evident că nu ar spune decât
+  banalităţi. Economia politică este deci, prin însăşi esenţa ei, o ştiinţă
+  *istorică* (subliniat de Engels). Ea *tratează o materie istorică*, adică *un
+  material în continuă schimbare* (Subliniat de mine, la fel ca în alte locuri,
+  unde nu sunt așa însemnări - /I. S./). Ea cercetează în primul rând legile
+  specifice care guvernează fiecare treaptă de dezvoltare a producţiei şi a
+  schimbului şi abia la sfârşitul acestei cercetări poate stabili puţinele legi
+  cu totul generale, valabile pentru orice producţie şi schimb. Se înţelege însă
+  de la sine că legile valabile pentru anumite moduri de producţie şi pentru
+  anumite forme de schimb sunt valabile pentru toate perioadele istorice cărora
+  le sunt comune modurile de producţie şi formele de schimb respective. Aşa, de
+  exemplu, odată cu introducerea banilor de metal intră în acţiune o serie de
+  legi care sunt valabile pentru toate ţările şi pentru toate perioadele
+  istorice în care schimbul este efectuat prin intermediul banilor de metal.
+  #+end_quote
+
+  Așadar, economia politică este o știință *istorică* care, fiind departe de
+  limitarea obiectului său cu țările capitaliste și era capitalistă, studiază «o
+  materie istorică» și, studiind legile deosebite ale anumitor perioade de
+  dezvoltare, nu se dezice de la aflarea unor regularități economice generale,
+  comune.
+
+  Cine nu își va aminti despre această notiță a lui Marx (în I vol. al
+  «Capitalului»), precum că fiecare epocă istorică își are propria lege a
+  populației? N-ar trebui oare acum să atașăm acestei însemnări așa o corecție:
+  dar ar fi o slăbire a demnității teoretice a economiei politice, dacă ea și-ar
+  vedea sarcina în stabilirea legii (sau legilor) populațiilor erelor înaintea
+  celei capitaliste.
+
+  Engels demonstrează cum se aplică aceste cunoștințe metodologice generale.
+
+  #+begin_quote
+  Modul de producţie şi de schimb al unei societăţi istoric determinate şi
+  *premisele istorice* ale acestei societăti implică un mod corespunzător de
+  repartiţie a produselor.
+  #+end_quote
+
+  Am subliniat în avans cuvintele: *«premisele istorice»*. Pentru un economist
+  abstract, care nu dorește să știe și să vadă nimic, în afara relațiilor
+  capitaliste, relațiile de repartiție a produselor erei capitaliste sunt
+  exclusiv rezultatul modului de producție capitalist. Nu-i adevărat! - ne spune
+  Engels. N-ați atras atenția unui moment extrem de important *co-definitoriu*
+  al repartiției în societatea capitalistă. Ați uitat, că societatea capitalistă
+  a ieșit din *feudalism*. Și acest salt peste premisele istorice ne taie calea
+  către înțelegerea nu numai relațiilor sătești, dar și dezvoltării istorice a
+  clasei muncitorești și despre poziția ei contemporană. După lucrările lui
+  Lenin vom mai adăuga că întunecarea «premiselor istorice» a capitalismului
+  modern ne-ar face ignoranți despre cât de natural și cât de fundat economic
+  este uniunea revoluționară a țărănimii și proletariatului. Feudalismul apasă
+  pe muncitor nu doar în plan politic, ci și în plan economic. Prin rămășițele
+  relațiilor feudale -- și ce rămășițe uriașe! -- «mortul îl apucă pe cel viu»
+  nu doar în agricultură, ci și în industrie.
+
+  #+begin_quote
+  «In comunitatea gentilică sau în obştea sătească bazate pe proprietatea comună
+  asupra pământului, care supravieţuieşte sau ale cărei rămăşiţe foarte vizibile
+  supravieţuiesc la toate popoarele civilizate la intrarea lor în istorie,
+  repartiţia aproximativ egală a produselor este ceva de la sine înţeles; acolo
+  unde apare o inegalitate mai pronunţată a repartiţiei între membri, aceasta
+  indică începutul destrămării comunităţii. -- Atît marea, cât şi mica
+  agricultură permit, în funcţie de condiţiile istorice (iarăși aceste «premise
+  istorice»! - /I.S./) din care au evoluat, forme de rpartiţie foarte
+  variate. Este însă evident că marea agricultură determină întotdeauna cu totul
+  altă repartiţie decât mica agricultură, că prima presupune sau produce un
+  antagonism de clasă - stăpâni de sclavi şi sclavi, proprietari funciari şi
+  iobagi, capitalişti şi muncitori salariaţi -, pe când în mica agricultură nu
+  este nicidecum necesară o deosebire de clasă între indivizii care participă la
+  producţia a gricolă, ci, dimpotrivă, simpla existenţă a acestei deosebiri
+  constituie un indiciu al destrămării economiei parcelare.
+
+  Introducerea și răspîndirea banilor de metal într-o ţară în care economia
+  naturală domnea exclusiv sau era precumpănitoare sunt întotdeauna legate de o
+  revoluţionare mai lentă sau mai rapidă a repartiţiei anterioare, şi anume în
+  sensul că inegalitatea repartiţiei între indivizi, deci antagonismul dintre
+  bogaţi şi săraci, creşte tot mai mult. - Producţia meşteşugărească locală, de
+  breslă, din evul mediu făcea tot atât de imposibilă existenţa marilor
+  capitalişti şi a muncitorilor salariaţi pe viaţă» ș.a.m.d.
+  #+end_quote
+
+  Vedem că Engels a notat, pe scurt, un rând întreg a legilor ecoomice, ce se
+  stabilesc prin studiul celor mai diverse formațiuni socio-economice. Și el ne
+  indică direct, că descoperirea acestor legi este una dintre sarcinile
+  economiei politice.
+
+  Desigur, dacă acest studiu al economiei politice din trecut, «preistorici» în
+  comparație cu capitalismul, ar avea doar un singur scop final: să descoperer
+  acele puține legi absolut generice, care ar putea fi observate în orice
+  formație socio-economică - ar fi rațional să ne îndoim în așa o știință ce
+  caută să combine generalizarea cu istorismul. Așa un studiu ne-ar duce pe două
+  cărări: sau în loc de regularități comune, descoperirea cărora o putem atribui
+  la sarcinile materialismului istoric, care în așa mod se intersectează
+  dialectic cu economia politic, am descoperi goluri inutile comune; sau, din
+  disperare, am șterge, arunca acea particularitatea, deosebire, acel lucru
+  concret, calitativ diferit, ce diferențiază erele economice din trecut de la
+  era capitalistă, am merge pe cărarea demult călcată de economiștii burghezi:
+  am descoperi proprietatea privată la predecesorii asemeni maimuțelor ai
+  omului, am găsi «comerțul mondial» în Peru antic, am colora Roma antică în
+  toate culorile societății capitaliste.
+
+  Economiștii abstracți nu sunt în stare să înțeleagă că pentru ecoomia
+  politică marxistă este valoros nu doar ceea ce este, *comun* tuturor
+  formațiilor socio-economice, ci și ceea, ce este specific fiecărei ere, ce
+  diferențiază erele între ele. Studiul teoretic a erei meșteșugărești a
+  producției, descoperirea condițiilor în care a existat meșteșugul deja ne
+  arată soarta meșteșugului în era capitalului comercial și industrial, și
+  totodată ne evidențiază acea mulțime de fenomene în producția măruntă
+  agriculturală în era capitalistă. Studiul comunei generale [genus, clan] și
+  sătești, la care ne face aluzie Engels în citatul de mai sus, ne eliberează de
+  la iluzii narodniciste.
+
+  În contradicție teoriei economice burgheze, cea marxistă tinde nu spre
+  păstrarea realității, dar descoperă chiar în realitatea actuală condițiile
+  mișcării, ale schimbării. Nu este clar oare că, dacă vom găsi doar definiții
+  comune pentru epocile moderne și cele antice, ne vom abstracționa așadar de la
+  orice mișcare? Doar prin particularitate, prin ceea ce *deosebește o eră de la
+  alta*, vom înțelege mișcarea și necesitatea strictă a mișcării.
+  /«Determinările care sânt valabile pentru producţie în general trebuie/
+  /separate tocmai pentru a se evita ca din cauza unităţii să fie omisă/
+  /deosebirea esenţială. In această omisiune constă, de exemplu, întreaga/
+  /înţelepciune a economiştilor contemporani, care se străduiesc să demonstreze/
+  /eternitatea şi armonia relaţiilor sociale existente»/ [fn:3]
+
+  În orice caz, toate astea sunt expuse atât de clar și distinct în
+  «Anti-Duhring», încât mă întreb dacă nu este vre-o «conspirație de tăcere»
+  împotriva bătrânului Engels.
+
+  #+begin_quote
+  «Economia politică, ca ştiinţă a condiţiilor şi formelor în care se efectuează
+  producţia şi schimbul şi, respectiv, repartiția produselor în cadrul
+  diferitelor societăţi omeneşti, economia politică în acest sens larg trebuie
+  să fie abia creată. Pînă acum ştiinţa economică s-a limitat aproape exclusiv
+  la geneza şi la dezvoltarea modului de producţie capitalist; ea începe cu
+  critica rămăşiţelor formelor de producţie şi de schimb feudale, demonstrează
+  necesitatea înlocuirii lor prin forme capitaliste, analizează legile modului
+  de producţie capitalist şi ale formelor de schimb corespunzătoare privite sub
+  aspectul lor pozitiv, adică sub aspectul în care ele favorizează scopurile
+  generale ale societăţii, şi se încheie cu critica socialistă a modului de
+  producţie capitalist, adică cu prezentarea legilor lui sub aspectul lor
+  negativ, cu demonstrarea faptului că acest mod de producţie se apropie rapid,
+  în virtutea propriei sale evoluţii, de punctul în care el însuşi face ca
+  existenţa sa să devină imposibilă.» (145-146)
+  #+end_quote
+
+  Deci, ce era și ce rămâne să fie, până în zilele de azi, economia politică?
+
+  Era teoria de dezvoltare a capitalismului din feudalism, teoria «părților
+  pozitive și negative» ale capitalismului: apariția sa, dezvoltarea și
+  decăderea inevitabilă.
+
+  Ce *ar trebui* să fie economia politică, ce *ar trebui* să ne ofere?
+
+  Ar trebui să ne ofere teoria mișcării și schimbării a *diferitor* formațiuni
+  socio-economice; teoria apariției lor, dezvoltării și înlocuirii lor
+  inevitabile cu alte formațiuni, dezvoltarea unor forme economice din altele,
+  și nu teoria unei ere separate a dezvoltării economice.
+
+  Să citim mai atent citatul adus numai ce și să îl comparăm cu notițele
+  precedente și ce urmează ale lui Engels, pe care nu le voi aduce pentru că
+
+  1. Nu pot transcrie întreaga parte
+  2. Cititorii-marxiști vor descoperi în cele ce urmează modul de a gândi normal
+     al lor Marx și Engels.
+
+  Vedem că aici Engels ne luminează foarte bine *istoria economiei politice ca
+  știință*.
+
+  Voi spuneți că economia politică devine și rămâne o știință doar atâta timp
+  cât se limitează cu studierea regularităților interne și logicii interne a
+  capitalismului abstract? Nimic! Metafizică pură! *Într-un timp* economia
+  politică clasică într-adevăr se limita cu studiul exclusiv al legilor modului
+  de producție capitalist și formelor de schimb corespunzătoare, și chiar în
+  aceste forme vedea doar partea lor pozitivă, doar ceea că ele sunt în acord cu
+  interesele societății. Această economie politică observa rămășițele
+  feudalismului, dar le considera o viță străină, ce stânjenea capitalismul -
+  unicul mod «natural» de producție - să-și răstoarne bogățiile asupra
+  umanității.
+
+  Când capitalismul și-a lăsat perioada de aur în spate și când la ușă i-a bătut
+  moștenitorul și groparul său, economia politică drept știință a devenit
+  imposibilă pentru burghezie. Economiștii clasici au murit și au fost înlocuiți
+  de economiști vulgari.
+
+  În același timp se desfășura critica capitalismului în două direcții. Dintr-o
+  parte, au apărut socialiștii care, vedeau în mizeria creată de capitalism doar
+  mizerie, au apelat la emoții, la morală și justețe. Dintr-altă parte, se
+  formează *comunismul sau socialismul științific*, care, în aceleași suferințe,
+  ce însoțeau dezvoltarea capitalismului, vede un simptom al eliberării
+  inevitabile, descoperă că modul de producție capitalist, prin propria sa
+  dezvoltare, dă naștere unor forțe ce duc inevitabil la schimbarea sa prin
+  modul de producție socialist și formele corespunzătoare a distribuției.
+
+  Astfel, economia politică, fiind în perioada ei clasică o armă a burgheziei,
+  este transformată de socialismul științific din nou într-o știință, - însă de
+  această dată în baza teoretică a luptei revoluționare a clasei
+  muncitoare. Corespunzător noii ere și noilor sarcini s-a schimbat și aria
+  istorică a economiei politice. Ea deja nu mai este doar teoria capitalismului,
+  în afară de aceasta este:
+  1. teoria genezei și dezvoltării modului de producție capitalist din cel
+     feudal
+  2. studiul teoretic a modului de formare a noilor elemente a viitorului,
+     noului mod de organizare a producției și distribuției.
+
+  Câmpul de vedere a crescut în ambele părți: și înainte, și în urmă - și înspre
+  socialism, și înspre feudalism. Dar și această ultimă creștere, acoperire
+  teoretică a economiei medievale, rămâne insuficientă. Ținem minte cum Marx
+  scria: «În spatele erei medievale trebuie să vedem era primitivă a fiecărui
+  popor», adică trebuie să includem în domeniul economiei politice și studuil
+  economiei primitive. Vedem că Marx, foarte clar și expresiv, adaugă: astfel de
+  expansiune, ce ne eliberează de prejudicii, *«corespunde direcției
+  socialiste»*. Înseamnă că un comunist, dacă dorește să cunoască științific
+  realitatea economică, trebuie să meargă în această direcție. Vom vedea în
+  curând, că acest punct se repetă la Engels.
+
+  *Pentru un metafizician*, economia politică drept știință se transformă într-o
+  oarecare «substanță» râncedă. Doar acea economie politică care ne dă teoria
+  capitalismului abstract și pur este o știință, ne spune el.
+
+  *Pentru un dialectician*, definiția (sau definițiile) oricărei științe nu este
+  extrasă dintr-o oarecare «idee» a acestei științe, nu este creată arbitrar în
+  cap, în «eterul curat a rațiunii», ci este inseparabilă de la dezvoltarea sa
+  istorică, de la legătura sa cu particularitățile concrete a diferitor ere și
+  cu acele sarcini istorice, pe care le înaintează și le permite fiecare
+  eră. Ricardo putea să definească economia politică drept știința despre legile
+  abstracte ale capitalismului: în dezvoltarea acesteia era și marea putere a
+  lui Ricardo. Dar clasica economia politică nu mai poate fi reînviată. Ceea ce
+  era pentru timpul său economia politică, la momentul actual a devenit
+  *socialismul științific*.
+
+  Când Engels fundamentase modul în care dezvoltarea capitalistă pregătește
+  «saltul omenirii din imperiul necesităţii în imperiul libertăţii», el
+  continua:
+
+  #+begin_quote
+  A înfăptui acest act de eliberare a omenirii este menirea istorică a
+  proletariatului modern. A cerceta condiţiile istorice şi, prin aceasta, însăşi
+  natura acestui act, a face astfel din clasa chemată să înfăptuiască acest act,
+  azi asuprită, o clasă conştientă de condiţiile şi natura propriei ei acţiuni
+  este sarcina socialismului ştiinţific, care este expresia teoretică a mişcării
+  proletare. (Opere vol. 20, p. 280-281)
+  #+end_quote
+
+  Iată cu ce a fost înlocuită, rămânând o știință teoretică, economia politică a
+  clasicilor.
+
+  Acum ne întoarcem la expunerea întreruptă a începutului primei părți a
+  secțiunei a doua al «Anti-Duhring»-ului (p. 146): care este domeniul
+  istoric al economiei politice, ca a unei științe.
+
+  Deci, dezvoltarea relațiilor capitaliste în realitatea actuală se lovește de
+  negația relațiilor capitaliste. Așadar confirmarea teoretică a relațiilor
+  capitaliste este înlocuită în economia politică, fiindcă aceasta rămâne o
+  știință, cu *negația* acestor relații, cu critica economiei burgheze.
+
+  #+begin_quote
+  Pentru a duce pînă la capăt această critică a economiei burgheze nu era
+  suficient să se cunoască forma capitalistă de producţie, de schimb şi de
+  repartiţie. Mai *trebuiau analizate* şi comparate cu ea, cel puţin în ceea ce
+  priveşte trăsăturile esenţiale, formele care au precedat-o sau care mai există
+  paralel cu ea în ţări mai puţin dezvoltate. (Opere vol. 20, p. 146)
+  #+end_quote
+
+  Dar cine și când făcea asta? - ne vor întreba nedumeriți teoreticienii
+  «abstracți», care văd conținutul de bază a «Capitalului» în cele mai abstracte
+  secțiuni ale lui, legate de investigația legilor modului de producție
+  capitalist?[fn:4]. Dar aceasta ni se va reproșa doar pentru că ei,
+  abstracționându-se de lucrările lui Marx și Engels, și modificându-le sub
+  propria estetică, doresc să scoată tot conținutul adevărat al lor.
+
+  #+begin_quote
+  Pînă în prezent, o asemenea analiză şi comparare completă a făcut numai Marx,
+  şi de aceea tot ceea ce s-a stabilit în domeniul studiului teoretic al
+  economiei preburgheze datorăm aproape exclusiv cercetărilor lui.
+  #+end_quote
+
+  Apoi, pentru a arăta mai evident cât de important este această spargere de
+  către știința economică a limitelor istorice a capitalismului, Engels
+  caracterizează pe scurt economiștii clasici și le găsește loc în dezvoltarea
+  filozofiei și științei.
+
+  #+begin_quote
+  Deşi născută în unele minţi geniale spre sfârşitul secolului al XVII-lea,
+  economia politică, *în sens restrîns, în formularea pozitivă* pe care i-au
+  dat-o fiziocraţii şi Adam Smith, este în fond un vlăstar al secolului al
+  XVIII-lea şi stă alături de cuceririle marilor iluminişti francezi din acea
+  perioadă, cu toate meritele şi lipsurile inerente epocii. Ceea ce am spus
+  despre aceşti iluminişti este valabil şi pentru economiştii de atunci. Noua
+  ştiinţă nu constituia pentru ei expresia relaţiilor şi a necesităţilor epocii
+  lor, ci expresia raţiunii eterne; legile producţiei şi ale schimbului
+  descoperite de ea nu erau legi ale unei forme istoriceşte determinate a
+  acestor activităţi, ci legi eterne ale naturii; ele erau deduse din natura
+  omului. Dar acest om, privit mai îndeaproape, era birgerul de mijloc pe cale
+  de a se transforma în burghez, iar natura lui consta în a produce şi a face
+  comerţ în condiţiile relaţiilor de atunci istoriceşte determinate.
+  #+end_quote
+
+  Am văzut la începutul acestei părți cum Engels ne explică ce este economia
+  politică *în sensul cel mai larg*, de la începutul ei până la comunismul
+  științific. Ea este «ştiinţa legilor care guvernează producţia şi schimbul
+  bunurilor materiale necesare traiului în societatea omenească».
+
+  Apoi el află ce era economia politică *în sensul restrâns*, adică ce a devenit
+  în secolul XVIII, în această perioadă istoric determinată, când ea a primit *o
+  formulare pozitivă*, adică văzând în legile descoperite a capitalismului doar
+  o parte: corespondența lor cu interesele societății la acel moment. Copila
+  secolului său, economia politică a fiziocraților și a lui Smith nu înțelegea
+  că descoperă legile economice la o anumită treaptă a dezvoltării umanității,
+  ci își imagina că descoperă legi în afara istoriei, definite de natura umană,
+  care rămânea veșnic statornică și neschimbătoare. Această economie politică nu
+  avea ochiul pentru dezvlotare, pentru istorie - și nici nu avea nevoie de
+  istorie, dacă «natura umană» stă în afara istoriei și dacă putem construi
+  acele forme economice care pot garanta bunăstarea acestui om «în afara
+  istoriei», om «în general». Însă acea economie politică nu bănuia un singur
+  lucru: că presupusa «natură generală» a omului era în realitate «natura»
+  formată «în condițiile istoric determinate de atunci».
+
+  Astfel devine clar că viziunile economiștilor secolului XVIII asupra
+  subiectului și metodei științei lor erau definite de sarcini istorice, care
+  stăteau în fața burgheziei secolului al XVIII-lea, fiind legate de caracterul
+  general a științei și filozofiei acelui timp, iluministă, predominant
+  raționalistă.
+
+* IV
+
+  Corespondența lui Marx și Engels ar mai putea confirma: «Capitalul» și toate
+  secțiunile sale se scriau corespunzător acestei viziuni despre relația
+  «teoriei abstracte» și «istoriei concrete»[fn:5]. E timpul să aducem niște
+  concluzii generale.
+
+  Am menționat deja una dintre lucrările neterminate ale lui Marx, care acum
+  este retipărită ca «Introducere» pentru «Critica economiei politice». Această
+  «Introducere» a fost, fără îndoială, schițată în 1857, adică în momentul în
+  care se redacta «Critica economiei politice». Al treilea paragraf al
+  Introducerii vorbește despre «metoda economiei politice». «Religia creștină»,
+  scrie Marx, «a fost capabilă să se ridice la o înțelegere obiectivă a
+  mitologiilor anterioare doar atunci când autocritica ei, într-o anumită
+  măsură, ca să spunem așa dynamei (potențial), a fost gata. În același mod,
+  economia burgheză a ajuns să înțeleagă societatea feudală, antică, orientală
+  abia atunci când a început autocritica față de societatea burgheză» («Zur
+  Kritik», p. XLII). Sau, așa cum spune Marx pe aceeași pagină, «anatomia umană
+  este cheia anatomiei maimuțelor. Aluziile la cel mai înalt în speciile
+  inferioare de animale pot fi înțelese numai dacă acest însuși superior este
+  deja cunoscut. Economia burgheză este cheia economiei antice», etc.
+
+  Fără o înțelegere a relațiilor capitaliste este imposibil să se ajungă la o
+  înțelegere fie a relațiilor feudale, fie a formelor pe care societatea
+  burgheză le-a primit din feudalism. «Renta pământului nu poate fi înțeleasă
+  fără capital, dar capitalul poate fi înțeles fără rente. Capitalul este forța
+  economică atotsubordonatoare a societății burgheze. El trebuie să constituie
+  punctul de plecare și de sfârșit, iar conceptul său trebuie dezvoltat» (în
+  timpul studiului, în timpul cercetării) «înainte de conceptul de proprietate
+  funciară. După ce ambele sunt considerate separat, este necesar să trecem la
+  relația lor».
+
+  Acestea sunt indicii generale ale modului în care economia politică, care este
+  o știință istorică, a mers de la cunoașterea relațiilor dezvoltate ale
+  societății burgheze la cunoașterea formațiunilor socio-economice trecute și cu
+  ce arme teoretice ar trebui să abordeze cercetătorul studiul atât ale
+  economiei contemporane, cât și a economiei trecutului.
+
+  La începutul aceluiași capitol (p. XXXV și urm.) Marx arată în ce direcție a
+  luat-o istoric economia politică în studiul realității și care metodă este
+  corectă din punct de vedere științific. «Concretul este concret, pentru că
+  reprezintă totalitatea multor definiții, unitatea diversității. Prin urmare,
+  pentru gândire, concretul este un proces de conectare a rezultatului, și nu
+  punctul de plecare, deși este punctul de plecare real și, în același timp,
+  punctul de plecare al contemplației (Anschauung) și al reprezentării...
+  Determinările abstracte duc la reproducerea concretului prin gândire.»
+
+  Ce înseamnă asta?
+
+  Economia politică, reieșind din realitatea actuală, cea mai largă
+  definiție a cărei fiind domnia capitalului, desfășoară categoriile economiei
+  capitaliste în forma lor curată și abstractă. Dar astfel ea încă nu ajunge la
+  scopul ei, la cunoașterea realității. Aceasta este doar o cheie pentru
+  înțelegerea realității economice. Aceste categorii ale capitalismului abstract
+  trebuie aplicate la societatea burgheză așa cum ea există, cu toate premisele
+  istorice: trebuie, prin gândire, *să reproducem acest concret*, să-i creăm
+  imaginea. Aceasta este sarcina acelei economii politice, care dorește să fie o
+  știință în era istorică contemporană.
+
+  În ultimul timp simțim fenomenul curios al «orbirii de prejudecăți», care ne
+  încurcă să înțelegem metoda «Capitalului» și împreună cu asta metoda lui
+  Lenin.
+
+  Începând cu cercurile elementară de alfabetism politic și finisând cu
+  universițățile comuniste, deja de patru ani se repetă ca un adevăr solid ce
+  stă deasupra oricăror șovăieli, de parcă economia politică marxistă, și în
+  principal a lui Marx, este «teoria ce lucrează *numai* (subliniat de autor -
+  I. S.) cu societatea de schimb», «știința despre legile societății de
+  marfă capitaliste»; de parcă e ilegal «să obligi economia politică să fie o
+  știință istorică în întregul său» ș.a.m.d (N. Petrov, în «Bolșevic» 1924,
+  №5-6, p. 92). Cu o adâncă convingere ni se spune din toate colțurile că
+  «metoda *abstract-analitică* a lui Marx se caracterizează cu faptul că
+  ea corespunde cu subiectul care se investighează cu ajutorul său,
+  capitalismului» (tot acolo, p. 94 ș.a.). Și, în sfârșit, cu cea mai serioasă
+  față ni se spune că Marx «e cel mai puternic acolo, unde concretizează mai
+  puțin, unde este cât se poate de abstract» (p. 97).
+
+  Deja am observat cum Marx și Engels schițează metoda și subiectul economiei
+  lor politice. Astfel ne putem da seama că tovarășul Petrov, imaginându-și că
+  vorbește despre economia politică marxistă, de fapt caracterizează foarte
+  oportun ce era economia politică după domeniu și metodă /a clasicilor/, în
+  primul rând /a lui Ricardo/. Îl aduc pe t. Petrov doar ca exemplu. A ieșit
+  astfel că numele tovarășului Petrov este legiune. Trebuie să fii de modă
+  foarte veche și trebuie să uiți temporar de scorpionii ce se vor răsturna
+  peste tine pentru a ține discursuri împotriva «orbirii de prejudecăți», pentru
+  a face o obiecție în modul cel mai umilitor: luptați pentru ceva ce e
+  diametral opus acelui lucru, pentru care luptau Marx și Engels.
+
+  Metoda lui Marx constă în /unitatea dialectică a metodei abstract-analitice și
+  concret-istorice/. Dezbinarea, împărțirea, ruperea acestei metode ne dă pe
+  de-o parte pe clasici (și astăzi Grenznultzleri, susținători ai utilității
+  marginale care, deducându-și «definițiile abstracte», ignoră complet
+  capitalismul și încep cu «omul în general»; însă de la abstracțiile sale nu
+  ajung la «procesul conexiunii», nu ajung la reproducerea capitalismului real
+  prin gândire). Pe de altă parte, zdrobind astfel metoda dialectică primim
+  istorismul neprincipiat și nefolositor a «școlii istorice» în economia
+  politică (în realitate aflându-se în afara economiei politice ca știință).
+
+  Dar poftim
+
+  А вот рассуждение первой же страницы одного из самоновейших учебников
+  политической экономии, типичное для всех многочисленных произведений этого
+  рода, появляющихся в последнее время: «Политическая экономия является наукой,
+  изучающей капиталистическое хозяйство. Предшествующие докапиталистические
+  стадии хозяйственного развития ею не изучаются. Изучение этих форм хозяйства
+  составляет предмет другой науки — истории хозяйства».
+
+  Невыразимая методологическая нелепость подобных разграничений не бьет в глаза ни авторам, ни читателям: установившаяся у нас «предвзятость» делает и авторов и читателей слепыми к подобной чепухе.
+
+* Footnotes
+
+[fn:1] K. Marx, F. Engels, Opere, Volumul 3, Editura politică București 1958
+[fn:2] Exact așa «își imaginează» și unii critici, care în ultimul timp s-au
+luat de broșura mea «Materialismul istoric și științele exacte contemporane».
+După obiecțiile mele ei și-au căutat scăparea în cotitura de la Marx «înapoi la
+Hegel». În orice caz, e o discuție pe altă dată.
+[fn:3] K. Marx, F. Engels, Opere, vol 13, Editura Politică București, p. 659
+[fn:4] «Dacă ne-am apucat să-l apreciem pe Marx din punct de vedere a relatării,
+atunci trebuie spus că el e cel mai puternic acolo, unde concretizează mai
+puțin, unde este cât de abstract posibil» (N. Petrov, în №5-6 a
+«Bolshevik»-ului, 1924, pg. 97). Oare nu ajungem noi până la timpul în care
+oamenii se vor plânge pe secțiunile capitalului unde Marx «s-a coborât» de la
+înaltul nivel al abstracțiilor la dezvoltarea reală a tehnologiei, la nivelul
+legislației actuale de fabrică, la nivelul acumulării primare actuale ș.a.m.d?
+În aceste «adânci», în realitate extrem de analfabete, încercări de construcție
+a două Marxuri: cel «abstract» și cel «concret», se renaște, conformând cu
+condițiile noi, acea tendință narodnicistă, care spunea că ei «îl rabdă» pe Marx
+pentru teoria lui economică, dar nu îi pot tolera «teoria istorică»
+sau «istorico-filozofică», de care îi scutea învelitura lor eclectică din cele
+mai incompatibile viziuni. După gradul de neînțelegere a metodei unitare și
+întregi a lui Marx ambele aceste tendințe sunt de aceeași valoare.
+[fn:5] K. Marx, Scrisoare către Engels pe 2 aprilie 1858. Acolo sunt foarte
+explicite despre asta părțile în care Marx denotă planul general al
+«Capitalului». De exemplu: «Trecerea capitalului la proprietatea funciară este
+în același timp istoric, pentru că forma proprietății funciare este produsul
+acțiunii capitalului asupra proprietății feodale și celelalte proprietăți asupra
+pământului. La fel și trecerea proprietății funciare în muncă salariată este nu
+doar dialectică, ci și istorică, pentru că ultimul product al proprietății
+funciare contemporane este consolidarea generală a muncii salariate, care apoi
+servește ca baza întregei zeame. («Briefwechsel». I. V., p. 265. La fel
+comparați paginile 266 și III V. pg. 380, 383)
