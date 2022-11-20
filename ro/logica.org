@@ -4,4 +4,50 @@
 * Obiectul și sarcinilie științei logica
 ** Logica gândirii și știința logica
    La lucru, în viața cotidiană, în timpul studiului, în lucrări științifice,
-   pretutindeni avem nevoie de un anumit tip de gândire, gândire corectă,
+   pretutindeni avem nevoie de un anumit tip de gândire, gândire corectă, bine
+   definită, necontradictorie. Fără gândire corectă, realizată prin vorbire,
+   omul nu ar fi capabil nici de muncă, nici de comunicare cu alți oameni.
+
+   Dacă cineva își exprimă gândurile incorect, se contrazice pe sine, atunci
+   spunem despre acel cineva: «E imposibil să-l înțelegi, gândurile lui nu sunt
+   logice».
+
+   Aici, prin cuvântul «logică» se înțelege corectitudinea construcției
+   gândurilor. Formarea corectă a gândurilor este studiată de știința «Logică».
+
+   Astfel, trebuie să separăm:
+   1. Logica gândirii (construcția corectă a gândurilor), și
+   2. Știința logica.
+
+   Succint, putem defini această știință astfel:
+
+   *Logica este știință despre legile și formele construcției corecte a
+   gândurilor.*
+
+** Legile și formele logice
+   */Legile logice/*. Certitudinea, coerența, consecvența și validitatea sunt
+   calități necesare pentru gândirea corectă.
+
+   Încălcarea legilor logice, conștientă sau inconștientă, ne duce la concluzii
+   greșite. Omul care încalcă legile logicii va fi învins în ceartă, discuție.
+
+   Vom aduce un exemplu din romanul «Rudin», unde Rudin discută cu Pigasov:
+
+   - Perfect! - a zis Rudin. - Deci spui că nu există convingeri?
+   - Nu există.
+   - Ești convins de asta?
+   - Da.
+   - Atunci de ce spui că nu există? Poftim, primul caz, scos la evidență.
+
+   Înțelegem că Pigasov a pierdut în această dezbatere. Știind logica, putem
+   evidenția și natura greșelii sale. Pigasov se contrazice singur pe
+   sine. Spunând la începutul discuției că nu există convingeri, deodată se
+   debarasează de această poziți și afirmă ceva complet opus.
+
+   Există o lege a logicii - legea contradicției. Aceasta ne interzice acest gen
+   de erori.
+
+   Sarcina logicii este studiul legilor construcției corecte a gândurilor și a
+   formelor logice.
+
+   O */formă logică/* este o structură a gândurilor noastre.
